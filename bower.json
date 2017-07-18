@@ -2,9 +2,12 @@
   "name": "mapbox-box-draw.js",
   "main": [
     "mapbox-gl-draw.css",
-    "mapbox-gl-draw.js"
+    "mapbox-gl-draw.js",
+    "mapbox-gl-geocoder.min.js",
+	  "mapbox-gl-geocoder.css"
+	  
   ],
-  "version": "0.19.0",
+  "version": "0.19.1",
   "homepage": "https://github.com/ShmouelAttali/mapbox-gl-draw",
   "authors": [
     "Shmouel Attali - Using Mapbox"
@@ -25,12 +28,12 @@
     "test",
     "examples"
   ],
-  "_release": "0.19.0",
+  "_release": "0.19.1",
   "_resolution": {
     "type": "version",
-    "tag": "v0.19.0"
+    "tag": "v0.19.1"
   },
   "_source": "https://github.com/ShmouelAttali/mapbox-gl-draw.git",
-  "_target": "^0.19.0",
+  "_target": "^0.19.1",
   "_originalSource": "mapbox-gl-draw.js"
 }
